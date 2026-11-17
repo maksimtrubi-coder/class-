@@ -5,3 +5,6 @@ table{
 table th{
     border: 1px solid #555;
 }
+th{
+    padding: 4px 8px;
+}
