@@ -2,9 +2,7 @@ table{
     border-collapse: collapse;
     border: 2px solid #555;
 }
-table th{
+ th, td{
     border: 1px solid #555;
-}
-th{
     padding: 6px 10px;
 }
